@@ -29,6 +29,7 @@ Step 8: Save and run the application.
 Program to create and design an android application for performing different animations.
 
 Developed by: Sriram G
+
 RegisterNumber: 212222230149 
 
 ## MainActivity.java:
