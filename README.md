@@ -311,5 +311,12 @@ public class MainActivity extends AppCompatActivity {
 
 # Output:
 
+![image](https://github.com/Sriram8452/EX_6_ANIMATION_GIT/assets/118708032/b627e422-c3e1-4e94-9168-c1d9d5f8d00b)
+
+![image](https://github.com/Sriram8452/EX_6_ANIMATION_GIT/assets/118708032/369b8dcd-1913-4d78-8a8f-d454c1903b97)
+
+![image](https://github.com/Sriram8452/EX_6_ANIMATION_GIT/assets/118708032/f957dbe8-2bec-47cf-a625-1765693944a7)
+
+
 # Result:
 Thus a Simple Android Application to perform different animations for the image on the screen using Android Studio was developed and executed successfully.
